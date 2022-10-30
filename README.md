@@ -1,4 +1,4 @@
-# RFM-Customer-Segmentation
+# RFM CUSTOMER SEGMENTATION IN FINTECH
 
 ![My Image](images/Slide1.JPG)
 
