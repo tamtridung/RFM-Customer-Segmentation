@@ -41,7 +41,7 @@ I group our customers into 12 segments as shown below:
 
 On the last day of each quarter, the customer segmentation script code will run and save the results. I use this result and Power BI to create a report that help sales team to better understand their customers and devise effective marketing strategies.
 
-![My Image](images\RFM report 1.png)
+![My Image](images/RFMreport1.png)
 
 ## Segmentation version 2:
 
@@ -49,5 +49,5 @@ In practical application, with 12 segments will have a detailed view of customer
 
 After study, I propose a solution number of segments from 12 to 5 as the figure below:
 
-![My Image](images\Rfmver2.png)
+![My Image](images/Rfmver2.png)
 
